@@ -1,6 +1,7 @@
-import junit.framework.TestCase.assertEquals
-import org.junit.Before
 import org.junit.Test
+import org.junit.Assert.*
+import org.junit.Before
+
 
 class ChatServiceTest {
     var chatService = ChatService()
